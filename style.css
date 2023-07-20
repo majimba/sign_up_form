@@ -76,6 +76,8 @@ hr
 }
 img
 {
-    width: 90px;
+    width: 150px;
     margin-top: -50px;
+    margin-left: auto;
+    margin-right: auto;
 }
